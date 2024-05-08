@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaszLebiecki
-- 👀 I’m interested in snooker and two apps to monitor snooker training
-- 🌱 I’m currently learning fremwork spring and angular
+- 👀 I’m interested in ROS2
+- 🌱 I’m currently learning C++ and ROS2
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
